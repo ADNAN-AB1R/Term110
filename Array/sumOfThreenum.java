@@ -1,3 +1,4 @@
+package Array;
 import java.util.Scanner;
 
 //prints out the sum of three numbers. Then prints the numbers also.
